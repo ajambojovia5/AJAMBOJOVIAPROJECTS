@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+ 
+.nav-links{
+    list-style-type: none;
+    display: flex;
+    justify-content:space-between;
+    background-color: yellowgreen;
+    border: 20px;
+    margin: 0;
+
+
+}
+
+
+
+
+.nav-links li a{
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    
+
+}
+.firstdiv{
+    background-color: red;
+    justify-content: space-between;
+    display: flex;
+    padding: 20px;
+}
+.firstdiv div{
+    
+    justify-content: space-between;
+    background-color: blue;
+    margin: 15px;
+   
+    text-align: center;
+}
